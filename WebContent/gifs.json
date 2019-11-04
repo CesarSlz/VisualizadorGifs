@@ -1,0 +1,27 @@
+[
+	{
+		"nombre": "La mascara",
+		"categoria": "movies",
+		"url": "https://media2.giphy.com/media/5PH7fUFAFEmDC/source.gif"
+	},
+	{
+		"nombre": "Travolta",
+		"categoria": "movies",
+		"url": "https://media.giphy.com/media/g01ZnwAUvutuK8GIQn/giphy.gif"
+	},
+	{
+		"nombre": "Surprise",
+		"categoria": "movies",
+		"url": "https://media.giphy.com/media/H71ZE3iBvi40M/giphy.gif"
+	},
+	{
+		"nombre": "OMG",
+		"categoria": "movies",
+		"url": "https://media.giphy.com/media/2yRXceMiwm3Zu/giphy.gif"
+	},
+	{
+		"nombre": "Jack sparrow",
+		"categoria": "correr",
+		"url": "https://media.giphy.com/media/Z7a2io6IAzVwQ/giphy.gif"
+	}
+]

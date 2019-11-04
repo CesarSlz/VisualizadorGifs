@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Gifs</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</head>
+<body class="bg-dark">
+	<div class="container m-auto">
+	
+		<div class="m-3">
+			<h2 class="text-white">Buscador de Gifs</h2>
+			
+			<div class="d-flex">
+				<div class="flex-grow-1">
+					<input type="text" class="form-control" id="txtBusqueda" placeholder="Encuentra tu Gif">
+				</div>
+				
+				<div class="ml-2">
+					<button id="btnBuscar" class="btn btn-info" onclick="buscarGifs()">Buscar</button>
+				</div>
+			</div>
+			
+			<br>
+			
+			<div id="tabla-gifs" class="d-flex justify-content-between flex-wrap">
+				
+			</div>
+			
+			<script src="script.js"></script>
+		</div>
+	</div>
+</body>
+</html>
